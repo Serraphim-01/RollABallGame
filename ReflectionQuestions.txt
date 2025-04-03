@@ -1,0 +1,8 @@
+1. Challenges Encountered: 
+    I was limited in my knowledge and couldnt do much to Improve the game. 
+
+2. How I Overcame the Challenges: 
+    I had to go and take some other scripting Courses to improve my knowledge and skill.
+
+3. Features to Implement if Given more time
+I would Like to Implement Different levels of difficulty in the game as well as different scene levels. 
