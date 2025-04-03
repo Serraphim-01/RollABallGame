@@ -1,0 +1,27 @@
+# Unity-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio files
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.unityproj
+*.vcxproj
+*.vcxproj.filters
+*.vs/
+
+# Unity metadata and caches
+*.meta
+*.unitypackage
+
+# Ignore system files
+.DS_Store
+Thumbs.db
